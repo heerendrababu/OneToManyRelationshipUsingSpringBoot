@@ -8,6 +8,7 @@ public class OneToManyRelationshipApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OneToManyRelationshipApplication.class, args);
+		System.out.println("modification to check on gitHub");
 	}
 
 }
