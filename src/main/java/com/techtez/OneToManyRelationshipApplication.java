@@ -11,6 +11,7 @@ public class OneToManyRelationshipApplication
 	{
 		SpringApplication.run(OneToManyRelationshipApplication.class, args);
 		System.out.println("modification to check on gitHub");
+		System.out.println("new line from GitHub");
 	}
 
 }
